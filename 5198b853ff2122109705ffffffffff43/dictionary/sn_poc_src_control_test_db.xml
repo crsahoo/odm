@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="c8a8f093ff2122109705ffffffffffc5" label="test db" max_length="40" name="sn_poc_src_control_test_db" type="collection">
+        <element label="Description" max_length="40" name="description" type="string"/>
+        <element display="true" label="Document ID" max_length="40" name="document_id" type="string"/>
+        <element label="Status" max_length="40" name="status" type="string"/>
+    </element>
+</database>
